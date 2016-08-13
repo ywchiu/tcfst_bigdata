@@ -1,4 +1,4 @@
-# 巨量資料分析應用與實作班
+# 巨量資料分析系統導入 - Using Hadoop and Spark
 =============
 
 ### Slides:
