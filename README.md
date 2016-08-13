@@ -4,12 +4,6 @@
 ### Slides:
 https://www.slideshare.net/secret/mMQOWuDUEiPHhH
 
-### [實際應用] 使用Hadoop 分析 Facebook 打卡資訊
-https://www.youtube.com/watch?v=FQr2nVvkLzc
-
-sudo yum install python-pip
-
-sudo pip install requests
 
 ### [操作範例] 如何使用Sqoop彙整結構化資料
 https://www.youtube.com/watch?v=ZUdXOwnsPPk
@@ -25,14 +19,13 @@ https://www.youtube.com/watch?v=EEjJzNwlPpk
 ### [操作範例] 如何使用Hive
 https://www.youtube.com/watch?v=UjxBQSy8IBM
 
-### Recommendation System
+### [實際應用] 使用Hadoop 分析 Facebook 打卡資訊
+https://www.youtube.com/watch?v=FQr2nVvkLzc
 
-https://youtu.be/RoRixPm4XyQ
+sudo yum install python-pip
 
-https://www.youtube.com/watch?v=l0TemN7lpCs
+sudo pip install requests
 
-### Tableau
-https://youtu.be/JZcr23I7VPM
 
 ### Cloudera Pseudo Distributed Mode 安裝說明
 - https://www.youtube.com/watch?v=6WTbwb5mTSY
