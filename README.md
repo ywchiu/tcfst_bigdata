@@ -2,9 +2,7 @@
 =============
 
 ### Slides:
-https://www.slideshare.net/secret/4X5GnpTWft8AxO
-
-password:itri
+https://www.slideshare.net/secret/mMQOWuDUEiPHhH
 
 ### [實際應用] 使用Hadoop 分析 Facebook 打卡資訊
 https://www.youtube.com/watch?v=FQr2nVvkLzc
