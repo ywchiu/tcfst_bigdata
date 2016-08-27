@@ -25,6 +25,11 @@ https://www.youtube.com/watch?v=UjxBQSy8IBM
 https://www.youtube.com/watch?v=FQr2nVvkLzc
 
 
+### Restart HBase
+- sudo service zookeeper-server restart
+- sudo env JAVA_HOME=/usr/java/jdk1.7.0_67-cloudera /usr/lib/hbase/bin/hbase-daemon.sh restart regionserver
+- sudo service hbase-master restart
+
 sudo yum install python-pip
 
 sudo pip install requests
