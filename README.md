@@ -30,9 +30,16 @@ https://www.youtube.com/watch?v=FQr2nVvkLzc
 - sudo env JAVA_HOME=/usr/java/jdk1.7.0_67-cloudera /usr/lib/hbase/bin/hbase-daemon.sh restart regionserver
 - sudo service hbase-master restart
 
-sudo yum install python-pip
-
-sudo pip install requests
+## Start ipython notebook
+- sudo yum install python-pip
+- wget http://archive.ipython.org/release/1.2.1/ipython-1.2.1.tar.gz
+- tar -zxvf ipython-1.2.1.tar.gz
+- cd ipython 
+- sudo python setup.py install
+- sudo pip install jinja2
+- sudo pip install tornado
+- sudo pip install pyzmq
+- ipython notebook
 
 
 ### Cloudera Pseudo Distributed Mode 安裝說明
