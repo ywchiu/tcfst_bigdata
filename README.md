@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=FQr2nVvkLzc
 
 ## 安裝findspark
 - git clone https://github.com/minrk/findspark.git
+- cd findspark
 - sudo python setup.py install
 ## 設定環境變數
 - export PYSPARK_SUBMIT_ARGS="--master local[2] pyspark-shell"
