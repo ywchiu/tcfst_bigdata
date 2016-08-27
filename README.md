@@ -4,6 +4,8 @@
 ### Slides:
 https://www.slideshare.net/secret/mMQOWuDUEiPHhH
 
+### [投影片] HBase實作
+https://www.slideshare.net/secret/l1bY7L7mKHQkzk
 
 ### [操作範例] 如何使用Sqoop彙整結構化資料
 https://www.youtube.com/watch?v=ZUdXOwnsPPk
@@ -21,6 +23,7 @@ https://www.youtube.com/watch?v=UjxBQSy8IBM
 
 ### [實際應用] 使用Hadoop 分析 Facebook 打卡資訊
 https://www.youtube.com/watch?v=FQr2nVvkLzc
+
 
 sudo yum install python-pip
 
