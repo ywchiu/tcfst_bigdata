@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=FQr2nVvkLzc
 - sudo yum install python-pip
 - wget http://archive.ipython.org/release/1.2.1/ipython-1.2.1.tar.gz
 - tar -zxvf ipython-1.2.1.tar.gz
-- cd ipython 
+- cd ipython-1.2.1 
 - sudo python setup.py install
 - sudo pip install jinja2
 - sudo pip install tornado
