@@ -41,6 +41,12 @@ https://www.youtube.com/watch?v=FQr2nVvkLzc
 - sudo pip install pyzmq
 - ipython notebook
 
+## 安裝findspark
+- wget https://github.com/minrk/findspark.git
+- sudo python setup.py install
+##設定環境變數
+- export PYSPARK_SUBMIT_ARGS="--master local[2] pyspark-shell"
+- export SPARK_HOME=/usr/lib/spark/
 
 ### Cloudera Pseudo Distributed Mode 安裝說明
 - https://www.youtube.com/watch?v=6WTbwb5mTSY
